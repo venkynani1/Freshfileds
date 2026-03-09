@@ -9,7 +9,7 @@ const menus = [
         title: "Overview",
         submenu: [
           { title: "Scope of Knowledge Academy", link: "https://hexawareonline.sharepoint.com/sites/KMPortal/Freshfields/Scope%20of%20Knowledge%20Academy/Forms/AllItems.aspx?viewid=e4728749%2D0f8f%2D4a65%2D8b2d%2D3a96d3f0350e&id=%2Fsites%2FKMPortal%2FFreshfields%2FScope%20of%20Knowledge%20Academy%2FKnowledge%20Academy%20Scope%2Epdf&parent=%2Fsites%2FKMPortal%2FFreshfields%2FScope%20of%20Knowledge%20Academy" },
-          { title: "About Freshfields", link: "https://www.freshfields.com/en/about-us" },
+          { title: "About Freshfields", link: "" },
           { title: "About Hexaware", link: "https://hexaware.com/about-us/" },
         ],
       },
