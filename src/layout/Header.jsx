@@ -2,8 +2,7 @@ function Header() {
   return (
     <header className="header" >
       <div className="logo">
-        FRESHFIELDS
-        
+        Example KM Portal
       </div>
       
     </header>
